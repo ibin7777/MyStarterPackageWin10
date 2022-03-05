@@ -12,6 +12,9 @@
 - MS office
 - MS Teams(if needed)
 
+### Non-Softwares
+- [Material Design Cursor](https://www.deviantart.com/rosea92/art/Material-Design-Cursors-Dark-756850032)
+- 
 # Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
 
 
