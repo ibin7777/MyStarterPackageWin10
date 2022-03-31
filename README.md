@@ -2,6 +2,11 @@
 
 [编辑网站](https://pandao.github.io/editor.md/index.html) ![](https://github.com/ibin7777/MyStarterPackageWin10/blob/main/Windows%2011%20Icon_180x180.png?raw=true)
 
+### Laptop Evaluation!
+
+- [跳过联网进入win11](https://www.bilibili.com/video/BV17P4y1u7N3)
+- [图吧/入梦工具箱](https://www.bilibili.com/video/BV1TT4y127ee)
+
 ### Gaming
 
 - [Running Environment (3DM or such)](https://dl.3dmgame.com/patch/89066.html)
