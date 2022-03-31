@@ -1,6 +1,7 @@
 # 我的win10个人装机整合
 
-[编辑网站](https://pandao.github.io/editor.md/index.html) ![](https://github.com/ibin7777/MyStarterPackageWin10/blob/main/Windows%2011%20Icon_180x180.png?raw=true)
+[编辑网站](https://pandao.github.io/editor.md/index.html)  
+![](https://github.com/ibin7777/MyStarterPackageWin10/blob/main/Windows%2011%20Icon_180x180.png?raw=true)
 
 ### Laptop Evaluation!
 
