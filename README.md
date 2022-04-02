@@ -6,7 +6,7 @@
 ### Laptop Evaluation!
 
 - [跳过联网进入win11](https://www.bilibili.com/video/BV17P4y1u7N3)
-- [入梦工具箱](https://www.bilibili.com/video/BV1TT4y127ee) / [图吧工具箱](http://www.tbtool.cn/) 
+- [入梦工具箱](https://www.bianshengruanjian.com/html/yuanchuangruanjian/) / [图吧工具箱](http://www.tbtool.cn/) 
 
 ### Gaming
 
