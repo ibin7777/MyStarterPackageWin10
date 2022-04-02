@@ -1,0 +1,228 @@
+{
+	"id": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+	"title": "【类型】【冒险】Adventure Time",
+	"description": "Immerse yourself in the most engaging adventures with this impressive playlist with the most engaging games with their impressive plot",
+	"author": "King Kaiyegi",
+	"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANbSURBVDhPzZN/TNRlHIC/kGaTYTWHZS7bav1wVqOI3CDFfnHXJbllISEJHR3MbufZ5EAhjg45ArsDBnWAhQgnelgDJ+exs+FsnWJBHl2cwaVOpyA0IkLuHB3t6ZJvwhl/9kfP9v7zvnue7X0/ewXmwO/3U1VbxurklTyrjkBVfDdH9PPZpwhFYbqXT/R3YC6MxFSSzqHKQno7WkUT/hUcHx/nnfwE4rT3sKZgCXWa+XBY4JcagWNbBboqbsNVITDWKnDdJtCzR2C/IU+05wgq89OQVi5lecoidIp5eAoEfm8UGPhsASO1i7CpBKrWzWNXbAglLwn42gWq1W+I9i3Bru4uVmwJZ+mmhWzeGIo9XaAtsE7tFLDIl3O6NJqLFglXmpM4Vy3hvH4J16wCezKlYmFW0N5uQ/2BmsUZoUQkhNAUuJ5NLnAkPYT6xDsZPa7i2rcaJrqzGT+pZtSuZKRhLaOHQzEqEsTKrOBHyiQc9YlEJYfxiCyEM7sEnFqBhg23c6HhTXxdWfh6d3K9Lw+vU8PYV+9xKj+K08UPoFNtFiuzgi6Xi15LKueaUtj/7v1cNgn8ULQQo+Q+DPHLGLKmMXXxQ/yXC5nqzaFR8SSG9cv4VPkUbrdbrNzyhqW67VwNBH+qeZGOwON/X7KKzoO5xEY9zdtrHmewPZM/ejRoNkaS9lYSx6ozKC6cmfDfBAUbzY2Y9RJG6p6jv/ZRzhpf4Iztc1ZltlB26EeGrUoGLInIUosotZzFog0Mxu0S7WmCgv2efuLSH6TDEM+AeSWecilXmuS07K2m+8uPGTqwieGjCqzlGfQdyMaufQKPwyba0wQFvV4vr2TFIM+JwaEL45JRwqWqdQyZpAzWyLjanMJvJ9QcL9/A0dzn+brgYX7utIv2NEHBiYkJ1r7/EJH5EeRkLeC7HdEMlsm4YJDiLonHqX8ZR5EsMNlXsWfF0VYpxzv2q2hPExR0nPyGZ3aEs2JrOLFJd2HeraZ5Sxyj5TI6c1azVx5FfUY053dLMeaq+HPKL5oz3AxOTk7y2rYYYirCeCx5MW3Wlhv7/X19lOUqOaFbz1BtMsN1qZi2vX7jz8/FzaDP5yOvdDtaQzbOHqe4O4PH46H1i4PsMxnomeP8H4Ku/F/wfw/CXxUidTf0zQglAAAAAElFTkSuQmCC",
+	"library": "arcade",
+	"extreme": false,
+	"games": [
+		{
+			"id": 4296,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 0,
+			"notes": "",
+			"gameId": "cedc9f57-df28-44bf-8d9a-3a3112884397"
+		},
+		{
+			"id": 4297,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 1,
+			"notes": "",
+			"gameId": "164e2dc8-31dd-4f59-a6be-46c2087e190f"
+		},
+		{
+			"id": 4298,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 2,
+			"notes": "",
+			"gameId": "f95821b4-9d61-7be8-c8a2-bd101e660804"
+		},
+		{
+			"id": 4299,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 3,
+			"notes": "",
+			"gameId": "8cbb824f-73f1-49fe-9390-79e2295e4598"
+		},
+		{
+			"id": 4300,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 4,
+			"notes": "",
+			"gameId": "62a45085-51cd-443c-af15-a85ce7b06574"
+		},
+		{
+			"id": 4301,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 5,
+			"notes": "",
+			"gameId": "c5d2c57f-6ab9-481c-9436-901ad7528500"
+		},
+		{
+			"id": 4302,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 6,
+			"notes": "",
+			"gameId": "814f76b7-7cfe-ebdc-ea46-8728bb6d1f81"
+		},
+		{
+			"id": 4303,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 7,
+			"notes": "",
+			"gameId": "1227d57e-1ff7-48d6-bbb3-82649b192ee1"
+		},
+		{
+			"id": 4304,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 8,
+			"notes": "",
+			"gameId": "e4a2f2f5-ffb4-4a5e-9a91-d95a39afd612"
+		},
+		{
+			"id": 4305,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 9,
+			"notes": "",
+			"gameId": "1df51450-0aad-4e8a-8f33-0c1f4415b6ed"
+		},
+		{
+			"id": 4306,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 10,
+			"notes": "",
+			"gameId": "35f05537-49ab-4178-ba8a-3f7fff506cb4"
+		},
+		{
+			"id": 4307,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 11,
+			"notes": "",
+			"gameId": "8d3a91c8-c933-4d81-a132-65f87aa63ce3"
+		},
+		{
+			"id": 4308,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 12,
+			"notes": "",
+			"gameId": "d69c9eeb-6a5d-4dbc-92bb-67705a64bffc"
+		},
+		{
+			"id": 4309,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 13,
+			"notes": "",
+			"gameId": "bfa859bb-7954-45c4-9ed0-9fc819cd7d93"
+		},
+		{
+			"id": 4310,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 14,
+			"notes": "",
+			"gameId": "c9d30e07-e1c1-46d9-a097-1732a9683644"
+		},
+		{
+			"id": 4311,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 15,
+			"notes": "",
+			"gameId": "641e9697-f161-42c8-b9eb-b0b06c5ca5aa"
+		},
+		{
+			"id": 4312,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 16,
+			"notes": "",
+			"gameId": "f111beb1-22c4-0ab7-3044-fdb8a28e1d4e"
+		},
+		{
+			"id": 4313,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 17,
+			"notes": "",
+			"gameId": "6e427813-094d-4a11-8feb-d4b5f42a9472"
+		},
+		{
+			"id": 4314,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 18,
+			"notes": "",
+			"gameId": "f71f9033-caab-4093-848a-911eaf65a865"
+		},
+		{
+			"id": 4315,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 19,
+			"notes": "",
+			"gameId": "594bfad0-cb5b-478b-a554-8ee2e8cb73c6"
+		},
+		{
+			"id": 4316,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 20,
+			"notes": "",
+			"gameId": "5dc79def-459a-054d-580f-881fcae83a10"
+		},
+		{
+			"id": 4317,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 21,
+			"notes": "",
+			"gameId": "69fe0e96-9732-9648-20f8-c1c108ae91d7"
+		},
+		{
+			"id": 4318,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 22,
+			"notes": "",
+			"gameId": "4b2beaae-9306-44d8-be39-f61f66023af2"
+		},
+		{
+			"id": 4319,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 23,
+			"notes": "",
+			"gameId": "c2c7f15c-427b-0f45-31af-49b123200e64"
+		},
+		{
+			"id": 4320,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 24,
+			"notes": "",
+			"gameId": "82be87eb-686e-4443-8cd1-411b8993741a"
+		},
+		{
+			"id": 4321,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 25,
+			"notes": "",
+			"gameId": "6be76c36-813f-4dc8-ade2-5616be82a789"
+		},
+		{
+			"id": 4322,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 26,
+			"notes": "",
+			"gameId": "c19c7a06-323b-4dfd-ac52-9f67b0100a8b"
+		},
+		{
+			"id": 4323,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 27,
+			"notes": "",
+			"gameId": "33e3eb3f-7645-4704-bbf4-85be0442b7cd"
+		},
+		{
+			"id": 4324,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 28,
+			"notes": "",
+			"gameId": "e4409256-86c5-c1d0-e505-989cfafe3b4a"
+		},
+		{
+			"id": 4325,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 29,
+			"notes": "",
+			"gameId": "8702167b-4176-424c-9f6e-abf80992a00a"
+		},
+		{
+			"id": 4326,
+			"playlistId": "93e9acf2-4991-41e9-9ce0-03a6c74a4bac",
+			"order": 30,
+			"notes": "",
+			"gameId": "e45bfa9b-aabf-4afc-bbb4-9c69cd61c9ec"
+		}
+	]
+}

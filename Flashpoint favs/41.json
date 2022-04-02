@@ -1,0 +1,130 @@
+{
+	"id": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+	"title": "【精选】【DEV】Molleindustria's Recommendations",
+	"description": "Paolo Pedercini, creator of McDonald's Videogame and Operation Pedopriest, has a few games he'd like you to check out...",
+	"author": "Molleindustria",
+	"icon": "data:image/png;base64,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",
+	"library": "arcade",
+	"extreme": false,
+	"games": [
+		{
+			"id": 1130,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 0,
+			"notes": "",
+			"gameId": "7c7f78de-d0c9-4df5-acd6-0ab2bafcbe8d"
+		},
+		{
+			"id": 1131,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 1,
+			"notes": "",
+			"gameId": "44da2c66-32a4-4fa1-bf78-0bdf854600e6"
+		},
+		{
+			"id": 1132,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 2,
+			"notes": "",
+			"gameId": "ebe45a2b-e1e6-4f80-b0eb-a0218495a7c3"
+		},
+		{
+			"id": 1133,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 3,
+			"notes": "",
+			"gameId": "611735f6-644d-683e-01b1-165c26e4d3b3"
+		},
+		{
+			"id": 1134,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 4,
+			"notes": "",
+			"gameId": "1ac065f0-bf61-43b6-bb6d-749ac8746ffb"
+		},
+		{
+			"id": 1135,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 5,
+			"notes": "",
+			"gameId": "f1ca2ee4-1a05-4531-8e5b-be80e95eecc3"
+		},
+		{
+			"id": 1136,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 6,
+			"notes": "",
+			"gameId": "82accbbb-8aad-5622-787c-15f61c282133"
+		},
+		{
+			"id": 1137,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 7,
+			"notes": "",
+			"gameId": "14b45f53-a567-4f31-a157-16392c72923f"
+		},
+		{
+			"id": 1138,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 8,
+			"notes": "",
+			"gameId": "aafe35d0-4415-47ef-85da-9a5e0cc27fc3"
+		},
+		{
+			"id": 1139,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 9,
+			"notes": "",
+			"gameId": "0c07eae8-ff8b-4c8a-8501-d4ebff9c58a6"
+		},
+		{
+			"id": 1140,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 10,
+			"notes": "",
+			"gameId": "87268368-a9da-46c5-a592-b98f9c30da0a"
+		},
+		{
+			"id": 1141,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 11,
+			"notes": "",
+			"gameId": "8b01d56b-f8da-4153-931a-dfa11ffe5a4d"
+		},
+		{
+			"id": 1142,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 12,
+			"notes": "",
+			"gameId": "1f591b41-8683-6458-7aca-7cac4fccb763"
+		},
+		{
+			"id": 1143,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 13,
+			"notes": "",
+			"gameId": "61e0ec70-731c-45b1-8abc-6b862fc83ab7"
+		},
+		{
+			"id": 1144,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 14,
+			"notes": "",
+			"gameId": "e322282f-d9de-444e-9789-c31373ecd9a6"
+		},
+		{
+			"id": 1145,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 15,
+			"notes": "",
+			"gameId": "19c54e09-906f-492a-8275-b3f5ea5c1b6c"
+		},
+		{
+			"id": 1146,
+			"playlistId": "e1e41443-dbe3-4435-8e2b-dd062825ca4a",
+			"order": 16,
+			"notes": "",
+			"gameId": "b19c4e64-957a-bda4-3811-b9e4ff9084cd"
+		}
+	]
+}

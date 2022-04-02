@@ -1,0 +1,123 @@
+{
+	"id": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+	"title": "【类型】【弹幕】Shmups for Schmucks",
+	"description": "From retro space shooters to hardcore bullet hell, and everything in between.",
+	"author": "Pepperado",
+	"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjEuNv1OCegAAACDSURBVDhP1Y5RDoAwCEM5rqfmKoorYkc2dfqhviyRlb5M+Taq6tM9XvVNBn4fxe1Rf/Zv9iM/4akPAWYQeRd+VqYiqVqIAQkK7R/ZU5JxcLUc+7a/NrYBwAzfiAKGCqSldkQ0M1gH/CzPwB3GN2VnQvLtpE6GFyzw1eBaRTO9Hv4SkQVA7veJ8WhGegAAAABJRU5ErkJggg==",
+	"library": "arcade",
+	"extreme": false,
+	"games": [
+		{
+			"id": 4739,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 0,
+			"notes": "",
+			"gameId": "2c279f45-987f-45eb-ba05-e000e65c399f"
+		},
+		{
+			"id": 4740,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 1,
+			"notes": "",
+			"gameId": "3cf7a44c-5e52-81db-4807-db1a42bc492a"
+		},
+		{
+			"id": 4741,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 2,
+			"notes": "",
+			"gameId": "811dfa60-4af8-495a-a934-f557a9237d1e"
+		},
+		{
+			"id": 4742,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 3,
+			"notes": "",
+			"gameId": "923ff46e-0599-4154-b647-78d9f219cb92"
+		},
+		{
+			"id": 4743,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 4,
+			"notes": "",
+			"gameId": "cb66a560-d26f-4abe-a322-df56d50da1c1"
+		},
+		{
+			"id": 4744,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 5,
+			"notes": "",
+			"gameId": "088c4fc8-b3f8-b6e8-a024-1fc016a70c48"
+		},
+		{
+			"id": 4745,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 6,
+			"notes": "",
+			"gameId": "0fc63272-6e8c-4035-a86c-88d07994a52a"
+		},
+		{
+			"id": 4746,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 7,
+			"notes": "",
+			"gameId": "e490380d-82d8-cb50-c895-24f5c989974a"
+		},
+		{
+			"id": 4747,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 8,
+			"notes": "",
+			"gameId": "16be503e-a350-4c16-b03f-ccc203ea99e3"
+		},
+		{
+			"id": 4748,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 9,
+			"notes": "",
+			"gameId": "d44b2f61-d3bf-3cec-92a0-3217f8ef0f69"
+		},
+		{
+			"id": 4749,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 10,
+			"notes": "",
+			"gameId": "b04e614b-ef58-4e57-9dc0-ba7cb7e195a7"
+		},
+		{
+			"id": 4750,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 11,
+			"notes": "",
+			"gameId": "cf0bac5f-e439-377a-1102-056a2722d8e2"
+		},
+		{
+			"id": 4751,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 12,
+			"notes": "",
+			"gameId": "a78910ca-e2dc-4e83-98eb-6a5f3fb0babb"
+		},
+		{
+			"id": 4752,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 13,
+			"notes": "",
+			"gameId": "1e479fbb-21f0-421a-8767-45ee27785f9e"
+		},
+		{
+			"id": 4753,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 14,
+			"notes": "",
+			"gameId": "d40449a5-0b69-4666-a354-1f9d4653d7c1"
+		},
+		{
+			"id": 4754,
+			"playlistId": "8c7ce90b-3b02-49fc-a0c3-5ce04060a08a",
+			"order": 15,
+			"notes": "",
+			"gameId": "f0b937e9-1808-f232-6050-a14cd4f712fd"
+		}
+	]
+}

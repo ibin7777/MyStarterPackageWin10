@@ -1,0 +1,585 @@
+{
+	"id": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+	"title": "【精选】TOMY's Show And Tell",
+	"description": "",
+	"author": "TOMYSSHADOW",
+	"icon": "",
+	"library": "arcade",
+	"extreme": false,
+	"games": [
+		{
+			"id": 3066,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 0,
+			"notes": "",
+			"gameId": "6aa557b1-5de5-4f8c-bafb-963f66f51307"
+		},
+		{
+			"id": 3067,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 1,
+			"notes": "",
+			"gameId": "c22fb48d-9511-4ec0-99d7-f5a7956abebd"
+		},
+		{
+			"id": 3068,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 2,
+			"notes": "",
+			"gameId": "7d1ce5ae-32db-4ec8-bd3b-a757032e787d"
+		},
+		{
+			"id": 3069,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 3,
+			"notes": "",
+			"gameId": "5121e2d1-afa6-4fa6-a5c2-5486168800d4"
+		},
+		{
+			"id": 3070,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 4,
+			"notes": "",
+			"gameId": "e15daa2e-b76a-403f-b077-974a26a8c360"
+		},
+		{
+			"id": 3071,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 5,
+			"notes": "",
+			"gameId": "e5650721-192f-4443-ba87-e5a466e98362"
+		},
+		{
+			"id": 3072,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 6,
+			"notes": "",
+			"gameId": "128c8f61-2237-46c6-8053-f200e9bcf116"
+		},
+		{
+			"id": 3073,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 7,
+			"notes": "",
+			"gameId": "3912b387-1422-2339-807e-f2a7868988e7"
+		},
+		{
+			"id": 3074,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 8,
+			"notes": "",
+			"gameId": "f07df39e-c5da-064f-873c-8fd20e92f5a5"
+		},
+		{
+			"id": 3075,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 9,
+			"notes": "",
+			"gameId": "9d5e6737-9f33-8bc5-9532-6a3372f5ceb0"
+		},
+		{
+			"id": 3076,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 10,
+			"notes": "",
+			"gameId": "6fa37d11-ac5d-7f81-c3fe-d9851adb68fd"
+		},
+		{
+			"id": 3077,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 11,
+			"notes": "",
+			"gameId": "bec87eed-18e3-92b2-5269-482d047159b6"
+		},
+		{
+			"id": 3078,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 12,
+			"notes": "",
+			"gameId": "5fdb41a9-2ddb-f61e-c442-21f67951062b"
+		},
+		{
+			"id": 3079,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 13,
+			"notes": "",
+			"gameId": "6939799e-3a1c-486e-aeae-c3b06b1d751a"
+		},
+		{
+			"id": 3080,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 14,
+			"notes": "",
+			"gameId": "b8c0d22f-ee26-7b03-de23-44023884cd16"
+		},
+		{
+			"id": 3081,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 15,
+			"notes": "",
+			"gameId": "15f45639-b873-40a9-afbe-64a95e3c8b78"
+		},
+		{
+			"id": 3082,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 16,
+			"notes": "",
+			"gameId": "639bae6b-88d6-462a-866c-80ea246ff44c"
+		},
+		{
+			"id": 3083,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 17,
+			"notes": "",
+			"gameId": "e082ac67-feb9-4a64-281d-b5fd997e563b"
+		},
+		{
+			"id": 3084,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 18,
+			"notes": "",
+			"gameId": "33f31c20-59bc-4eed-a40d-e64a49ae59a9"
+		},
+		{
+			"id": 3085,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 19,
+			"notes": "",
+			"gameId": "d2452c6e-e6bb-488b-871b-83a7536cf1aa"
+		},
+		{
+			"id": 3086,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 20,
+			"notes": "",
+			"gameId": "a34e59e5-1d6e-4693-974a-d8d529512225"
+		},
+		{
+			"id": 3087,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 21,
+			"notes": "",
+			"gameId": "c1d5d035-90c5-4e5a-8917-64669f236410"
+		},
+		{
+			"id": 3088,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 22,
+			"notes": "",
+			"gameId": "2db87827-c3aa-4c49-86e5-2a650376fb88"
+		},
+		{
+			"id": 3089,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 23,
+			"notes": "",
+			"gameId": "0d58a0be-c8ae-4128-8ba5-94cfdc63ba39"
+		},
+		{
+			"id": 3090,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 24,
+			"notes": "",
+			"gameId": "5da81109-3d5f-4e74-b195-3126fb9c593e"
+		},
+		{
+			"id": 3091,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 25,
+			"notes": "",
+			"gameId": "3ddbf638-50ba-450b-a38d-bdf73b58b581"
+		},
+		{
+			"id": 3092,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 26,
+			"notes": "",
+			"gameId": "f4147e46-008e-4c30-a315-4fd8bbb933d5"
+		},
+		{
+			"id": 3093,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 27,
+			"notes": "",
+			"gameId": "4f712b84-705e-4995-ba7c-e63ca8590407"
+		},
+		{
+			"id": 3094,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 28,
+			"notes": "",
+			"gameId": "e85c14aa-3d86-4357-9f80-eb1e6d8248c3"
+		},
+		{
+			"id": 3095,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 29,
+			"notes": "",
+			"gameId": "acbccc83-032a-4606-8a48-e5a3c71e78e3"
+		},
+		{
+			"id": 3096,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 30,
+			"notes": "",
+			"gameId": "24f20233-8b2f-45b5-bdb5-c8f6a602f0bf"
+		},
+		{
+			"id": 3097,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 31,
+			"notes": "",
+			"gameId": "d8cb9bfc-5d43-4097-ae4c-85934f284e67"
+		},
+		{
+			"id": 3098,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 32,
+			"notes": "",
+			"gameId": "e70e8c15-921c-4e68-98a6-2ca9a3a0b7eb"
+		},
+		{
+			"id": 3099,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 33,
+			"notes": "",
+			"gameId": "b37898b3-c7dc-4042-8a7f-87519cf3c441"
+		},
+		{
+			"id": 3100,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 34,
+			"notes": "",
+			"gameId": "327bec45-5455-4633-a8b0-7c612751c478"
+		},
+		{
+			"id": 3101,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 35,
+			"notes": "",
+			"gameId": "fcad7d8c-51fa-4be1-a4f0-6f9f9e8d8ffa"
+		},
+		{
+			"id": 3102,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 36,
+			"notes": "",
+			"gameId": "53087736-569b-4f5b-929b-3717a8ce740d"
+		},
+		{
+			"id": 3103,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 37,
+			"notes": "",
+			"gameId": "62673d56-1027-46ff-96cc-c04a29596498"
+		},
+		{
+			"id": 3104,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 38,
+			"notes": "",
+			"gameId": "d42a1479-5b9d-4a6f-95ce-b0878a4ef690"
+		},
+		{
+			"id": 3105,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 39,
+			"notes": "",
+			"gameId": "94b28c64-8e59-40dd-baa3-6a2811fba368"
+		},
+		{
+			"id": 3106,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 40,
+			"notes": "",
+			"gameId": "d3066d95-68d8-4221-ade5-56d25dd13b53"
+		},
+		{
+			"id": 3107,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 41,
+			"notes": "",
+			"gameId": "7b224131-aeb3-460d-a354-136aa3baa085"
+		},
+		{
+			"id": 3108,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 42,
+			"notes": "",
+			"gameId": "d75ca9d7-926a-44a3-9689-7d47f4500559"
+		},
+		{
+			"id": 3109,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 43,
+			"notes": "",
+			"gameId": "378046df-8877-e1ac-b2d6-47af051fca90"
+		},
+		{
+			"id": 3110,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 44,
+			"notes": "",
+			"gameId": "29a9fda7-1c87-ebfd-0ccc-a38152a68b45"
+		},
+		{
+			"id": 3111,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 45,
+			"notes": "",
+			"gameId": "211d66fc-358f-4aee-8889-0b8b3dd72e1a"
+		},
+		{
+			"id": 3112,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 46,
+			"notes": "",
+			"gameId": "1d56c006-2498-4109-90a2-1ee93d65735f"
+		},
+		{
+			"id": 3113,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 47,
+			"notes": "",
+			"gameId": "d4d5641b-9bf4-42ea-ac9f-ac9d0a3b0b4b"
+		},
+		{
+			"id": 3114,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 48,
+			"notes": "",
+			"gameId": "03163c79-fd1f-c74a-c64d-b3c35a5ba593"
+		},
+		{
+			"id": 3115,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 49,
+			"notes": "",
+			"gameId": "46d86061-255e-4445-99b7-e03844a29521"
+		},
+		{
+			"id": 3116,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 50,
+			"notes": "",
+			"gameId": "92cc8de5-387b-44c5-9959-845807d1fd8c"
+		},
+		{
+			"id": 3117,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 51,
+			"notes": "",
+			"gameId": "dda0e45d-8857-4318-8776-652244609f9c"
+		},
+		{
+			"id": 3118,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 52,
+			"notes": "",
+			"gameId": "d08235ed-17ef-4345-ad78-11aeee3d91ce"
+		},
+		{
+			"id": 3119,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 53,
+			"notes": "",
+			"gameId": "83be04f3-975d-4a3b-9d7b-2f23b524849a"
+		},
+		{
+			"id": 3120,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 54,
+			"notes": "",
+			"gameId": "6a8fb0aa-fc17-45c6-a80c-c28984e3ac38"
+		},
+		{
+			"id": 3121,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 55,
+			"notes": "",
+			"gameId": "a4b7f033-74b4-4bc2-b7c2-02766907cedc"
+		},
+		{
+			"id": 3122,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 56,
+			"notes": "",
+			"gameId": "f3ee29ac-ea85-812a-50f6-0363155556f9"
+		},
+		{
+			"id": 3123,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 57,
+			"notes": "",
+			"gameId": "8f812ab1-f4a9-4336-aa8c-25107b35e04a"
+		},
+		{
+			"id": 3124,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 58,
+			"notes": "",
+			"gameId": "cc29ecb4-16b6-4f7d-be54-58b073a293a2"
+		},
+		{
+			"id": 3125,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 59,
+			"notes": "",
+			"gameId": "3557a2d0-139f-4a9b-9823-92ec3ec52c55"
+		},
+		{
+			"id": 3126,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 60,
+			"notes": "",
+			"gameId": "3e3dc542-7704-4a08-90d3-b353c3837202"
+		},
+		{
+			"id": 3127,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 61,
+			"notes": "",
+			"gameId": "f256525e-afce-415f-81b9-0d862bc80580"
+		},
+		{
+			"id": 3128,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 62,
+			"notes": "",
+			"gameId": "b037ca1c-f209-4eb0-9a76-beeee980caec"
+		},
+		{
+			"id": 3129,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 63,
+			"notes": "",
+			"gameId": "01cbb8ac-3865-4330-841f-a2c63ecc16bf"
+		},
+		{
+			"id": 3130,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 64,
+			"notes": "",
+			"gameId": "f3ac5e54-1f8b-447d-a75a-3b53fb06072a"
+		},
+		{
+			"id": 3131,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 65,
+			"notes": "",
+			"gameId": "89d9180d-2e69-4e73-bbe6-3fa7cb65e743"
+		},
+		{
+			"id": 3132,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 66,
+			"notes": "",
+			"gameId": "ef5a3c0f-bf89-086c-a0d1-82e1620d157b"
+		},
+		{
+			"id": 3133,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 67,
+			"notes": "",
+			"gameId": "e10b029d-c939-4999-bfc0-9e3c404c6e95"
+		},
+		{
+			"id": 3134,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 68,
+			"notes": "",
+			"gameId": "73259eba-0dae-4aac-b6c2-6e42ac99fecd"
+		},
+		{
+			"id": 3135,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 69,
+			"notes": "",
+			"gameId": "9924ecde-fb3c-4611-820f-a1e885a167cf"
+		},
+		{
+			"id": 3136,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 70,
+			"notes": "",
+			"gameId": "b336bf5e-0425-453c-bc28-befafe0a3329"
+		},
+		{
+			"id": 3137,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 71,
+			"notes": "",
+			"gameId": "a9a2cfe0-fec5-f23b-7da3-ce8c3eecba28"
+		},
+		{
+			"id": 3138,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 72,
+			"notes": "",
+			"gameId": "3376738a-8256-4803-992b-787775aee32f"
+		},
+		{
+			"id": 3139,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 73,
+			"notes": "",
+			"gameId": "a25e9999-52b1-48d3-9fff-2b1eaebef4d6"
+		},
+		{
+			"id": 3140,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 74,
+			"notes": "",
+			"gameId": "29f463ba-1eaf-a648-2492-055648a0d61b"
+		},
+		{
+			"id": 3141,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 75,
+			"notes": "",
+			"gameId": "62a45085-51cd-443c-af15-a85ce7b06574"
+		},
+		{
+			"id": 3142,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 76,
+			"notes": "",
+			"gameId": "bda1e0d7-145f-4c64-b354-bafbc68ccb75"
+		},
+		{
+			"id": 3143,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 77,
+			"notes": "",
+			"gameId": "b9f8a1b4-8a3e-bfff-bace-3c3751e4f1c2"
+		},
+		{
+			"id": 3144,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 78,
+			"notes": "",
+			"gameId": "fd9e3998-68c4-4357-c200-5bb00e03196f"
+		},
+		{
+			"id": 3145,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 79,
+			"notes": "",
+			"gameId": "2682b170-7171-fb16-7798-af4070cd87ac"
+		},
+		{
+			"id": 3146,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 80,
+			"notes": "",
+			"gameId": "9b868e94-7686-64d3-2027-88d889b46450"
+		},
+		{
+			"id": 3147,
+			"playlistId": "f041ff74-d9b4-4a5f-a6f4-a84d0e9d44c9",
+			"order": 81,
+			"notes": "",
+			"gameId": "41f90c4b-9e70-3703-91f3-03ebbd2201b1"
+		}
+	]
+}

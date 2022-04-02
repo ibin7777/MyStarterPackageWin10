@@ -1,0 +1,95 @@
+{
+	"id": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+	"title": "【精选】Tony's Favorites",
+	"description": "For this list I've put Flash games that I mostly come back to year after year to play again, which I think is a real show of quality for a free web game. I have played all of these games multiple times over many years and I hope that continues long past Adobe's manhandling of the Flash plugin. It's in no particular order and I wouldn't rank any as being 'the best'. I love hundreds of Flash games but I limited myself to 10 (or so) slots that might not be on every other game list ever.\n\n(Editor's note: Antony Lavelle created some of Flash's most popular games under the 'Tony' moniker, including the SHIFT, Indestructotank and Upgrade Complete series)",
+	"author": "Antony Lavelle",
+	"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAA7CAYAAADxXDOvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHLSURBVGhD7ZiBbcIwFESzASMwAiMwAiMwAiMwSkZgBEZgBEZgBLcvwlWVnp2zUW2QctJJ8P3Jf7Gd2HgIb6QVJqUVJqXPh7nf7+F0OoXL5TJ9v16vYb/fh+12O32uVRHM4/EI5/N58mazCcMw/DFAh8PhB7RExT1DkRRINL1Uo6phYohyQLVDVQ3DvFEgmGGsURUM4u4VCG4Ow9xRILjpnEHH41GCYOZTHMoSFcPQIzy+CkKZXhrH8fnrvGyY+GJTBR07smFeAcGObJjdbieLuHZkw6gCJXa0wqRkZd1uN1mgxI6srNyr37Wjz4PJrUOuHVlZrMKqQIkdrTApWVlssFWBEjuysl5dJLGjz4N5dcXGjqwsdXHXbEHpWUcWDG9gnNv3puyCIK//nko94kCm5lVzGHot1dYcJtfWBYa/I6qtC0xqm9EUJhZbYVLF3gKGGGoGw2kCRbnwvBiHAPx74Lxv3ob/ZTlQhaJpR6otGtglNYOJOTlZMNwVLzU1TPOzF5XDFoShXNIiDBfJrda0/VbqIIm5s3RoNHAnKTubqjhBo1VO9Dx37u8c/cNOlsFelsFelsFelsFelsFelsFelsFelsFelsEOHsIXiRFIyoAATB0AAAAASUVORK5CYII=",
+	"library": "arcade",
+	"extreme": false,
+	"games": [
+		{
+			"id": 1366,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 0,
+			"notes": "I love this game. It's maybe only a couple of steps of polish below being good enough to be an official Mario game. If I worked for Nintendo and needed an action packed casual mobile title, this is the guy I'd look to to do it. It suits the Mario world and theme perfectly.",
+			"gameId": "ab0136f4-27d6-4f6e-bed3-ae1978f2e3ef"
+		},
+		{
+			"id": 1367,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 1,
+			"notes": "This was a large game based on one of my favourite games of all time, Zelda 2 for the NES. It captured a lot of what I loved about Zelda 2 while being casual enough to not raise my blood pressure in the same way. I worked with the author of this game several times after playing this game, and he released a large scale sequel on Steam later on. I still love the original though for its simple drop in and have fun and complete in one sitting nature.",
+			"gameId": "8d3a91c8-c933-4d81-a132-65f87aa63ce3"
+		},
+		{
+			"id": 1368,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 2,
+			"notes": "This is an idea of a great concept played out JUST long enough to be fresh and exciting to keep coming back to again and again each time I recall it.",
+			"gameId": "69a05ae8-a7a6-4fa8-a123-4653a745e27a"
+		},
+		{
+			"id": 1369,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 3,
+			"notes": "Frog Fractions is the perfect example of a free web game game that bucks the requirement of front loading excitement and content in a free web game. If you were to play Frog fractions for a few minutes, you'd likely leave scratching your head as to what the fuss over it was. Stick with it, and it will take you on an unforgettable experience.",
+			"gameId": "174597c7-4ee7-4b98-af44-ad8d1856d0f6"
+		},
+		{
+			"id": 1370,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 4,
+			"notes": "This is a game that is extremely simple, but I somehow keep coming back to year after year to play a few times until I once again get a perfect run. One day I'll have judged my reflexes to be finally too slow to get a perfect run and then I'll maybe only play it a few more times.",
+			"gameId": "6c639bf7-9114-4ef1-93b0-b8e87e5e7a72"
+		},
+		{
+			"id": 1371,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 5,
+			"notes": "I know it's a Unity Plugin game but I sunk so many hours into this game it's ridiculous and it has to be on this list of web games that I consider to be my favourite.",
+			"gameId": "a25e9999-52b1-48d3-9fff-2b1eaebef4d6"
+		},
+		{
+			"id": 1372,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 6,
+			"notes": "These are another couple of games I played over and over until I had absolutely mastered a perfect play through of them. They basically inspired an entire genre of mobile games that never quite got it right in the same way as the originals.",
+			"gameId": "59bd1500-26a8-425f-8e71-927d89360f6c"
+		},
+		{
+			"id": 1373,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 7,
+			"notes": "These are another couple of games I played over and over until I had absolutely mastered a perfect play through of them. They basically inspired an entire genre of mobile games that never quite got it right in the same way as the originals.\n\na wiggle",
+			"gameId": "f64ecb25-5b9f-2660-5a71-db034acc6cb3"
+		},
+		{
+			"id": 1374,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 8,
+			"notes": "The quality of these games is unmatched, both visually and for their relaxing nature. Both games pull you into a sort of zen state while playing and I really hope for a third one day.",
+			"gameId": "b591410f-e54c-4ad6-b916-82965c625dc9"
+		},
+		{
+			"id": 1375,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 9,
+			"notes": "The quality of these games is unmatched, both visually and for their relaxing nature. Both games pull you into a sort of zen state while playing and I really hope for a third one day.",
+			"gameId": "da58e33f-1c72-205b-c164-3f5386be5e14"
+		},
+		{
+			"id": 1376,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 10,
+			"notes": "This falls into the exact same category as You Only Live Once, in that it highlights how much fun Flash was to work in. You could make an entire game just to tell a joke.",
+			"gameId": "be482fdc-7a6a-4b31-bac9-52d61fd052f5"
+		},
+		{
+			"id": 1377,
+			"playlistId": "d868b2b0-db21-428c-9d34-fcacb39d552a",
+			"order": 11,
+			"notes": "This is my go to example for showing people how great the Flash scene was to be in. Theres no way in any other industry, or any other setting that this game could be worth making and I love that. It's also hilarious.",
+			"gameId": "8067aa46-d2ef-d735-a938-b5589a6954a7"
+		}
+	]
+}

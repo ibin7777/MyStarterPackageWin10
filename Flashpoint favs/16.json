@@ -1,0 +1,151 @@
+{
+	"id": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+	"title": "【类型】【保龄】Bowling",
+	"description": "Can you bowl like a boss? Do you like hitting consecutive plenary sessions and becoming the ultimate bowling master?\nThen this playlist is for you",
+	"author": "King Kaiyegi",
+	"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAfCAYAAABkitT1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEeSURBVFhH7ZEBDoIwEAT7J/7UP/En/oSMsnjAEUo9khrdZKI9z+4oaWw43yHX5b4pyF+uBvIbcimlUEiIHJfl3IVCPpaTWNelUMhHcmsxXuMg4XLMhC27OiehcpyVYUKFV+e3ylGU+2EnUTq/RU6F23+hZk5+S45Q1txj7U0ZcGbHmx/t9ylYDhaJ6XLgfZ6ome/kGNYiOX69yijSo7o638npH7Bo8Qz2lrI5vF9JzCmZcyc5lNMS5Jyf6OzBPlBASiSO5txHXDkt8AqS09lKWZb9qeQ2uW3Z0dmDzykRnMPkzspLsIK3yzHz5h7abVru/Z31uWTOPST0se5LXuhuOzubE1euRtCKge6rhXynHHgSHvY7whbVQBa59jKOD/7Q4HknSE5JAAAAAElFTkSuQmCC",
+	"library": "arcade",
+	"extreme": false,
+	"games": [
+		{
+			"id": 4645,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 0,
+			"notes": "",
+			"gameId": "30c2a077-c009-fa0b-0980-df4aed4f1d26"
+		},
+		{
+			"id": 4646,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 1,
+			"notes": "",
+			"gameId": "d5bf723f-923e-4a5e-a259-70ecce97bb6f"
+		},
+		{
+			"id": 4647,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 2,
+			"notes": "",
+			"gameId": "364b47ac-14f5-434f-99fb-d5b5db04b4fc"
+		},
+		{
+			"id": 4648,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 3,
+			"notes": "",
+			"gameId": "e182cd94-ceaa-4809-b6bb-8e5b56049ba9"
+		},
+		{
+			"id": 4649,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 4,
+			"notes": "",
+			"gameId": "0959985b-f539-43bc-b381-7c36e2999b0b"
+		},
+		{
+			"id": 4650,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 5,
+			"notes": "",
+			"gameId": "4b2ae69b-3711-4de6-8f3e-de33b6c90308"
+		},
+		{
+			"id": 4651,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 6,
+			"notes": "",
+			"gameId": "931de1b6-9d8b-4b2a-89cc-19efbfa9fb5e"
+		},
+		{
+			"id": 4652,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 7,
+			"notes": "",
+			"gameId": "1f605cf5-73ce-4ad6-bc35-70b1fa9f8bca"
+		},
+		{
+			"id": 4653,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 8,
+			"notes": "",
+			"gameId": "bc9407dc-3f35-1aaf-a915-005961a8f842"
+		},
+		{
+			"id": 4654,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 9,
+			"notes": "",
+			"gameId": "d1a965bd-9781-4f4a-a4ad-2fa4f04a082d"
+		},
+		{
+			"id": 4655,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 10,
+			"notes": "",
+			"gameId": "a6b5159e-da9c-474c-9d0b-078cceef5ee8"
+		},
+		{
+			"id": 4656,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 11,
+			"notes": "",
+			"gameId": "5c7ebb93-0a9a-a2c6-1e7b-ca9b68571ca9"
+		},
+		{
+			"id": 4657,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 12,
+			"notes": "",
+			"gameId": "776ea470-942c-4c5d-8a7e-f71488c72dda"
+		},
+		{
+			"id": 4658,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 13,
+			"notes": "",
+			"gameId": "7d7c66c7-e3b6-4f4f-aa2c-38011812ac40"
+		},
+		{
+			"id": 4659,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 14,
+			"notes": "",
+			"gameId": "ec55c7c0-9780-4116-b71b-e60c6bb7890b"
+		},
+		{
+			"id": 4660,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 15,
+			"notes": "",
+			"gameId": "f73361cd-45a1-472c-9f77-73655d610edf"
+		},
+		{
+			"id": 4661,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 16,
+			"notes": "",
+			"gameId": "288b94f1-4802-4cae-b171-e9f6c98a224b"
+		},
+		{
+			"id": 4662,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 17,
+			"notes": "",
+			"gameId": "8281f3fd-275d-424e-afe9-c0bcd539000c"
+		},
+		{
+			"id": 4663,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 18,
+			"notes": "",
+			"gameId": "3ec18afc-7f95-41fd-bf8b-353d5fdf1655"
+		},
+		{
+			"id": 4664,
+			"playlistId": "5be6b6a8-2792-4d5b-a594-4442d1854f75",
+			"order": 19,
+			"notes": "",
+			"gameId": "6dba76c9-e4bf-c480-bcda-f12057eea870"
+		}
+	]
+}

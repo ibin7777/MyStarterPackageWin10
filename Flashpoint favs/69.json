@@ -1,0 +1,137 @@
+{
+	"id": "8981208d-39ea-4809-a079-e56d26a3f052",
+	"title": "【网站】Club Penguin Games",
+	"description": "List of games in club penguin including party games ones (not counting beta team ones)",
+	"author": "Ale32",
+	"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABd1BMVEX////AwMAdKjEAM04ARWggS2E4ODjw8PA9REgATXUAgMgAc74AbroAeMIAdrQiN0M5QEMAbacAbLgAYrAvebMAW6UAZ7QAeb1AUVlOTk4AZZoAabaPtNH////P2+Xv9fqfyeUAXI0gVG7Pz8/v7+8vldFBSE09PT0AZqGPrsY8PDzf39+/v79vqM1AYnQAK0Gvr69/mKsAgsrv7eHf0ILv1lC/piC/rCuPhSVwa1XQ0NAAcby/tz/+xxv/xRH/wg7/ww//yhf/1yN/bxXg4OC+jxK2bBT7sBX+vBD+wA78wh9VVVW7fBNiDxCqWhThkhf6pxn7rRf6qRjakRZdPglCQkJOjL3nniRpERJXFg6cdCY+c4oPCgEAERoacLTDy9Hqtl/JTR6cHxyhURQ+ZnQAVoIAfcaZssbR0tTWzLzvhx3PLSaPGxmyfykASYQ/g7jo6OngwY7siijNahqUiF8AVZuvu8XTz8jbx6WcqbUAT48AUZUAQ338/oeHAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAHdElNRQfkCg0WCSwCajsgAAAA5UlEQVQY02NgAAJGJmYWVjZ2Bhjg4OTi5uHl44eJCAgKCQuLiIqJS0D4klLSwsIysnLyCoqMYAElHqC8rLKKirKqGoivriEsLKwpq6Wto66rBxLQBxogrCxroCJrYAgWMALyhY1NTM3MzMwtLK0YGKx5gQI2tnb29vYOjk7OLgzCIC2ubu4eQBF7Ty9vBpAOYR9fP/+AwMCg4JBQsEBYeERERGRUdEwsJx9IIC4+ITEpIjlFODXNWhgkkJ6RmZWdkyssnAfkAAXyZQsyCouKS4SFRYWFS4ECZbJAkfKKSmHhKuHqGgDRGil5XxL89QAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0xMC0xM1QyMjowOTo0NCswMDowMMq3UsAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMTAtMTNUMjI6MDk6NDQrMDA6MDC76up8AAAAIHRFWHRzb2Z0d2FyZQBodHRwczovL2ltYWdlbWFnaWNrLm9yZ7zPHZ0AAAAYdEVYdFRodW1iOjpEb2N1bWVudDo6UGFnZXMAMaf/uy8AAAAXdEVYdFRodW1iOjpJbWFnZTo6SGVpZ2h0ADE2Ha9ebwAAABZ0RVh0VGh1bWI6OkltYWdlOjpXaWR0aAAxNuUAnuIAAAAZdEVYdFRodW1iOjpNaW1ldHlwZQBpbWFnZS9wbmc/slZOAAAAF3RFWHRUaHVtYjo6TVRpbWUAMTYwMjYyNjk4NNwH9HUAAAAQdEVYdFRodW1iOjpTaXplADczOEL+zGj+AAAANXRFWHRUaHVtYjo6VVJJAGZpbGU6Ly8vdG1wL3RodW1ibHIvaW1nNTMyMTA4MTcxNTg0NjAzNjE1N68bDl0AAAAASUVORK5CYII=",
+	"library": "arcade",
+	"extreme": false,
+	"games": [
+		{
+			"id": 5256,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 0,
+			"notes": "",
+			"gameId": "70378827-e66d-460e-82df-c318f296fd2c"
+		},
+		{
+			"id": 5257,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 1,
+			"notes": "",
+			"gameId": "afdaad64-316f-9831-6365-550842ddfef7"
+		},
+		{
+			"id": 5258,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 2,
+			"notes": "",
+			"gameId": "a164a103-026e-25c7-a0a7-2ce48a939987"
+		},
+		{
+			"id": 5259,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 3,
+			"notes": "",
+			"gameId": "4887bb4e-abf1-4333-8c37-079c6701fc18"
+		},
+		{
+			"id": 5260,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 4,
+			"notes": "",
+			"gameId": "ca5b8c85-22c1-48f9-b96d-43d5652f19a0"
+		},
+		{
+			"id": 5261,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 5,
+			"notes": "",
+			"gameId": "a8e1a452-9683-94d3-c911-978319389bf4"
+		},
+		{
+			"id": 5262,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 6,
+			"notes": "",
+			"gameId": "a26460a9-a081-464d-be50-2d94d19db7df"
+		},
+		{
+			"id": 5263,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 7,
+			"notes": "",
+			"gameId": "09b1a0a3-db9a-4ab6-b1dd-acd88cf8e823"
+		},
+		{
+			"id": 5264,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 8,
+			"notes": "",
+			"gameId": "5e0d1680-11cd-e2a7-f31b-8b5bc3b379a1"
+		},
+		{
+			"id": 5265,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 9,
+			"notes": "",
+			"gameId": "ca5707ac-3860-a11d-eb01-986d99bbcc4f"
+		},
+		{
+			"id": 5266,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 10,
+			"notes": "",
+			"gameId": "b34cc1d6-dd38-f7d3-17aa-40b119f02cca"
+		},
+		{
+			"id": 5267,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 11,
+			"notes": "",
+			"gameId": "f340ead3-5054-451e-aa10-c51f0193e8c5"
+		},
+		{
+			"id": 5268,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 12,
+			"notes": "",
+			"gameId": "c6333248-ccf9-418a-95c7-045c4d8060b1"
+		},
+		{
+			"id": 5269,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 13,
+			"notes": "",
+			"gameId": "c4ca4ed5-c488-43b9-899f-4f3e10e40484"
+		},
+		{
+			"id": 5270,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 14,
+			"notes": "",
+			"gameId": "cd180375-2796-4b61-9694-c465676c01fc"
+		},
+		{
+			"id": 5271,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 15,
+			"notes": "",
+			"gameId": "f2c3eb37-444a-4f1f-9f24-e4f9442ddcb7"
+		},
+		{
+			"id": 5272,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 16,
+			"notes": "",
+			"gameId": "0afafdfa-b6c9-4e9f-bc0a-fa4d99711965"
+		},
+		{
+			"id": 5273,
+			"playlistId": "8981208d-39ea-4809-a079-e56d26a3f052",
+			"order": 17,
+			"notes": "",
+			"gameId": "b5558d7b-7c50-44b5-97e8-d066e11a5fa4"
+		}
+	]
+}

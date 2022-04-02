@@ -1,0 +1,60 @@
+{
+	"id": "459a7ec3-23bc-42a1-8ab5-755cf024f1fa",
+	"title": "【成人】【Romp】The Wizard of OZ (18+)",
+	"description": "Series from Romp.com",
+	"author": "Ekul",
+	"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAkCAIAAACWgvQ4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTM0A1t6AAABiElEQVRYR+2X0W2DMBCG0wlgA9gANigbJBsAEzACTAAbwAZhg7BBsgGZIMoEaftLd0JEOIfd3kPV8j1EMr6zvxy24+w2Nv40QRC8vyCKIg56xvM8jrAD8ZxpJE3TcRw/XDidTnEcUzomeDwe3GFBkiSUaADFuN1un+6cz2caATaYg59aINkUReE01hx6d5o2wzBwlDtlWWKEf2nTdZ3v+8fjkdsLyAa8PdO2LUcsuF6vCKAsA4INfQlMye0Fk80cbAuhVFmWcZwRdZvvFwbo2vyoMEDXRijM/X7HKuS4VyjayIVZqhtQtMEe5I4FKMzKzxOhZYPC8FMTVVVxnIyWjbBiQBiGHCejYiOvGLzBlY09oWKjUxgg2NDxsGqjVhgg2ODoxHz45PYCspELc7lcMMWc6ZpmAN2c5w7Z4B7IbTtoAZhpmoaj3Nnv9xhB08b1djIxHWiaNqCuaw60Bip5nlO6sg3W/OFw6PueVtkqeLnzTYu/HDhq7cEe5EwBONnDORsbG7+N3e4LPKs/PmaHAd0AAAAASUVORK5CYII=",
+	"library": "arcade",
+	"extreme": true,
+	"games": [
+		{
+			"id": 5181,
+			"playlistId": "459a7ec3-23bc-42a1-8ab5-755cf024f1fa",
+			"order": 0,
+			"notes": "",
+			"gameId": "4574f692-751f-41f2-b90a-ffa4b93cc259"
+		},
+		{
+			"id": 5182,
+			"playlistId": "459a7ec3-23bc-42a1-8ab5-755cf024f1fa",
+			"order": 1,
+			"notes": "",
+			"gameId": "9e4b1e43-49e6-47e8-b254-238ac3928d0b"
+		},
+		{
+			"id": 5183,
+			"playlistId": "459a7ec3-23bc-42a1-8ab5-755cf024f1fa",
+			"order": 2,
+			"notes": "",
+			"gameId": "16609b2d-8e4c-43a2-8224-92117044682b"
+		},
+		{
+			"id": 5184,
+			"playlistId": "459a7ec3-23bc-42a1-8ab5-755cf024f1fa",
+			"order": 3,
+			"notes": "",
+			"gameId": "0cd3ecda-f153-425a-ae21-4d4214e63e7d"
+		},
+		{
+			"id": 5185,
+			"playlistId": "459a7ec3-23bc-42a1-8ab5-755cf024f1fa",
+			"order": 4,
+			"notes": "",
+			"gameId": "b54402c2-8ce8-4f7f-9829-be54efa7c18a"
+		},
+		{
+			"id": 5186,
+			"playlistId": "459a7ec3-23bc-42a1-8ab5-755cf024f1fa",
+			"order": 5,
+			"notes": "",
+			"gameId": "da31ea61-efe4-4568-9d0f-2d21fad96756"
+		},
+		{
+			"id": 5187,
+			"playlistId": "459a7ec3-23bc-42a1-8ab5-755cf024f1fa",
+			"order": 6,
+			"notes": "",
+			"gameId": "4a2b7994-2502-4cb0-a217-3345d675dd82"
+		}
+	]
+}

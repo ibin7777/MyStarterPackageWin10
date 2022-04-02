@@ -1,0 +1,109 @@
+{
+	"id": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+	"title": "【系列】Hoshi Saga",
+	"description": "Hoshi Saga games",
+	"author": "Eniuu",
+	"icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAqACoDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9IVqndXUem3cDyNsjuH8sk9N+OPzAq2vasHx5Zm98M3Cj7yMrgjtg0AdOpzyORUi9q828P+OJdK00w30clw0Y/dsOp9jWbp/xK1XWPGNvZRoFRh8ttH0AP8TnvQB6+tOqOPO0Z696koAwNSvJrGykmgg+0Oozs3bf1rzG68dXGqXTQXswtU3Y8gAqv0yetesDn3FVrrSLO8jZZbaJyR1KigDzW9kha3+XHSl+F66bp/ia8knk/wBMuceUz9AP7orj9O0668W+J4NIQyR28bF7h1JBwDjFej3XwbtGkSS01C5t5FIKktnBoA9MU07JqhpUE9rYxRXEvnyoMGT1q7uoAzFqRTUK9KkXrQBQ0vw7ZaXf3F3bxKkk33sCthTUK1IvSgCVTTt1R0+gD//Z",
+	"library": "arcade",
+	"extreme": false,
+	"games": [
+		{
+			"id": 4282,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 0,
+			"notes": "",
+			"gameId": "1c616511-b47d-4d59-91ed-54ecdbaba294"
+		},
+		{
+			"id": 4283,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 1,
+			"notes": "",
+			"gameId": "262d7dd0-da7b-4d9f-8024-d160ec51c0c7"
+		},
+		{
+			"id": 4284,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 2,
+			"notes": "",
+			"gameId": "6f71b516-993e-4e53-86c7-48eb555209d5"
+		},
+		{
+			"id": 4285,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 3,
+			"notes": "",
+			"gameId": "bc362925-ad4c-4252-bb8d-cc152f2014fb"
+		},
+		{
+			"id": 4286,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 4,
+			"notes": "",
+			"gameId": "2cb836fc-bed4-43c3-beb3-bcde54cc4c73"
+		},
+		{
+			"id": 4287,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 5,
+			"notes": "",
+			"gameId": "e53d9775-c15e-4dca-8a4e-850e846fa92b"
+		},
+		{
+			"id": 4288,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 6,
+			"notes": "",
+			"gameId": "b403c92e-b0ff-45cf-8028-636f6a80cd40"
+		},
+		{
+			"id": 4289,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 7,
+			"notes": "",
+			"gameId": "3114eaac-28d2-439a-9ee7-9df783fc5132"
+		},
+		{
+			"id": 4290,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 8,
+			"notes": "",
+			"gameId": "df9a1051-cee7-4573-bfff-83a4c291c391"
+		},
+		{
+			"id": 4291,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 9,
+			"notes": "",
+			"gameId": "74ebc123-947b-e00f-3772-1bcd4fb60038"
+		},
+		{
+			"id": 4292,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 10,
+			"notes": "",
+			"gameId": "4f12b1f1-f4c4-9cc0-115a-9a24a901edb9"
+		},
+		{
+			"id": 4293,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 11,
+			"notes": "",
+			"gameId": "60f593e3-df34-735b-5520-2bf4bc1c9a61"
+		},
+		{
+			"id": 4294,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 12,
+			"notes": "",
+			"gameId": "524e0d4a-29a5-4f8c-ae26-a346274f2198"
+		},
+		{
+			"id": 4295,
+			"playlistId": "37707533-8143-4e79-a9b7-43a11c4e09ee",
+			"order": 13,
+			"notes": "",
+			"gameId": "d628ea52-efb4-472a-9f20-4dbe2f95b9fe"
+		}
+	]
+}
