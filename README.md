@@ -1,6 +1,6 @@
 # 我的win10个人装机整合
 
-[编辑网站](https://pandao.github.io/editor.md/index.html)  
+[Online MD editor](https://pandao.github.io/editor.md/index.html)  
 ![](https://github.com/ibin7777/MyStarterPackageWin10/blob/main/Windows%2011%20Icon_180x180.png?raw=true)
 
 ### Laptop Evaluation!
@@ -68,5 +68,11 @@
 - [Chocolatey](https://chocolatey.org/install)
 - [Scoop](https://scoop.sh/)
 - winfetch `choco install winfetch`
+- lolcat `Install-Module -Name lolcat`
 - Oh-My-Posh `choco install oh-my-posh`
 - Yori `choco install yori`
+
+## Music
+- Foobar2000(Download portable and keep archive!)
+- Spotify(better using usual installer app)
+- FL Studio / Studio One  
