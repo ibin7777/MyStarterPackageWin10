@@ -61,6 +61,7 @@
 
 - Doom mod collection(Baidu disk)
 - [Bluemaxima Flashpoint](https://bluemaxima.org/flashpoint/)
+- Check google keep pinned list for unplayed games
 
 ## Powershell & Terminal
 
@@ -75,4 +76,4 @@
 ## Music
 - Foobar2000(Download portable and keep archive!)
 - Spotify(better using usual installer app)
-- FL Studio / Studio One  
+- FL Studio / Studio One
