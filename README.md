@@ -77,3 +77,4 @@
 - Foobar2000(Download portable and keep archive!)
 - Spotify(better using usual installer app)
 - FL Studio / Studio One
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) & [Peace EQ GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/)
