@@ -78,3 +78,4 @@
 - [Spotify(better using usual installer app)](https://www.spotify.com/us/download/other/)
 - FL Studio / Studio One
 - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) & [Peace EQ GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) (Profile Screenshot not yet uploaded)
+- [MIXXX](https://mixxx.org/)
