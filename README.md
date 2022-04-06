@@ -74,7 +74,7 @@
 - Yori `choco install yori`
 
 ## Music
-- [Foobar2000(Install portable and keep archive!)](https://www.foobar2000.org/download) / [Cooly Icon Pack](https://www.deviantart.com/justval02/art/Cooly-foobar2000-icon-pack-868452366)
+- [Foobar2000](https://www.foobar2000.org/download) (Install portable and keep archive!) / [Cooly Icon Pack](https://www.deviantart.com/justval02/art/Cooly-foobar2000-icon-pack-868452366)
 - [Spotify(better using usual installer app)](https://www.spotify.com/us/download/other/)
 - FL Studio / Studio One
 - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) & [Peace EQ GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/) (Profile Screenshot not yet uploaded)
