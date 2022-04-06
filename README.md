@@ -15,6 +15,7 @@
 - [Inch.io](https://itch.io/app)
 - Xbox & game bar
 - [Cheat engine](https://www.cheatengine.org/downloads.php)
+- [Windows 7 games](https://winaero.com/get-windows-7-games-for-windows-10/)
 
 ### Microsoft Store
 
