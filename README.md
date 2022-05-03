@@ -3,10 +3,16 @@
 [Online MD editor](https://pandao.github.io/editor.md/index.html)  
 ![](https://github.com/ibin7777/MyStarterPackageWin10/blob/main/Windows%2011%20Icon_180x180.png?raw=true)
 
+### 特殊：win11装机默认包
+
+- [Startallback经典开始菜单和文件浏览](https://www.startallback.com/)
+- github：Traffic Monitor(repo里面有设置文件)，T-clock
+- 酷鱼桌面，从steam下载
+
 ### Laptop Evaluation!
 
 - [跳过联网进入win11](https://www.bilibili.com/video/BV17P4y1u7N3)
-- [图吧工具箱](http://www.tbtool.cn/) 
+- ~~~[图吧工具箱](http://www.tbtool.cn/) ~~~ 不好使，凑合吧
 
 ### Gaming
 
