@@ -12,7 +12,7 @@
 ### Laptop Evaluation!
 
 - [跳过联网进入win11](https://www.bilibili.com/video/BV17P4y1u7N3)
-- ~~~[图吧工具箱](http://www.tbtool.cn/) ~~~ 不好使，凑合吧
+- [图吧工具箱](http://www.tbtool.cn/)  不好使，凑合吧
 
 ### Gaming
 
