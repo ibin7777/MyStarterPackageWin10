@@ -1,4 +1,4 @@
-# 我的win10个人装机整合
+# 我的win10(11)个人装机整合
 
 [Online MD editor](https://pandao.github.io/editor.md/index.html)  
 ![](https://github.com/ibin7777/MyStarterPackageWin10/blob/main/Windows%2011%20Icon_180x180.png?raw=true)
