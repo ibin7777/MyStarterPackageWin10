@@ -52,6 +52,7 @@
 
 - [Material Design Cursor](https://www.deviantart.com/rosea92/art/Material-Design-Cursors-Dark-756850032)
 - [Windows 11 style cursor](https://github.com/ibin7777/MyStarterPackageWin10/raw/main/Win11cursor.zip)
+- [Posy's Nice Clean Cursor (also have zip in repo)](https://www.youtube.com/watch?v=YThelfB2fvg)
 
 ## Browsers
 
