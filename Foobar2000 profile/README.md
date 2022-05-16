@@ -1,2 +1,3 @@
-Paste all the file into:  
-%appdata%\foobar2000
+1. install,
+2. Delete everything in the path `%appdata%\foobar2000`,
+3. Unzip, and paste all the files there.
