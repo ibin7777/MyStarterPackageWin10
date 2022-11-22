@@ -7,7 +7,8 @@
 
 - [Startallback经典开始菜单和文件浏览](https://www.startallback.com/)
 - github：Traffic Monitor(repo里面有设置文件)，T-clock
-- 酷鱼桌面，从steam下载
+- ~~酷鱼桌面，从steam下载~~ (造成桌面故障)
+- [everything](https://www.voidtools.com/zh-cn/downloads/)
 
 ### Laptop Evaluation!
 
