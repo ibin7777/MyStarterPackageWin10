@@ -10,7 +10,7 @@
 - ~~酷鱼桌面，从steam下载~~ (造成桌面故障)
 - [everything](https://www.voidtools.com/zh-cn/downloads/)
 
-###Essentials
+### Essentials
 
 - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 - [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/install)
