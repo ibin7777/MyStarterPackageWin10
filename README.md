@@ -10,6 +10,11 @@
 - ~~酷鱼桌面，从steam下载~~ (造成桌面故障)
 - [everything](https://www.voidtools.com/zh-cn/downloads/)
 
+###Essentials
+
+- [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+- [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/install)
+
 ### Laptop Evaluation!
 
 - [跳过联网进入win11](https://www.bilibili.com/video/BV17P4y1u7N3)
