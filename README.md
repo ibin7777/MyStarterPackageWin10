@@ -6,7 +6,7 @@
 ### 特殊：win11装机默认包
 
 - [Startallback经典开始菜单和文件浏览](https://www.startallback.com/)
-- github：Traffic Monitor(repo里面有设置文件)，[T-clock（配合startallback）](https://www.startallback.com/)
+- github：[Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor)(repo里面有设置文件)，[T-clock（配合startallback）](https://www.startallback.com/)
 - ~~酷鱼桌面，从steam下载~~ (造成桌面故障)
 - [everything](https://www.voidtools.com/zh-cn/downloads/)
 
@@ -80,9 +80,7 @@
 
 ## Games
 
-- Doom mod collection(Baidu disk)
 - [Bluemaxima Flashpoint](https://bluemaxima.org/flashpoint/)
-- Check google keep pinned list for unplayed games
 
 ## Powershell & Terminal
 
