@@ -6,7 +6,7 @@
 ### 特殊：win11装机默认包
 
 - [Startallback经典开始菜单和文件浏览](https://www.startallback.com/)
-- github：Traffic Monitor(repo里面有设置文件)，T-clock
+- github：Traffic Monitor(repo里面有设置文件)，[T-clock（配合startallback）](https://www.startallback.com/)
 - ~~酷鱼桌面，从steam下载~~ (造成桌面故障)
 - [everything](https://www.voidtools.com/zh-cn/downloads/)
 
@@ -22,12 +22,13 @@
 
 ### Gaming
 
-- [Running Environment (3DM or such)](https://dl.3dmgame.com/patch/89066.html)
+- [Running Environment](https://dl.3dmgame.com/patch/89066.html)
 - [Steam](https://store.steampowered.com/about/)
 - [Inch.io](https://itch.io/app)
 - Xbox & game bar
 - [Cheat engine](https://www.cheatengine.org/downloads.php)
 - [Windows 7 games](https://winaero.com/get-windows-7-games-for-windows-10/)
+- [ShareX](https://store.steampowered.com/app/400040/ShareX/)
 
 ### Microsoft Store
 
@@ -52,7 +53,12 @@
 
 ### Github
 
-- see your stars!
+- [mikeroyal / Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide)
+- [awesome-windows11 / windows11](https://github.com/awesome-windows11/windows11)
+- [dylanaraps / neofetch (for windows terminal)](https://github.com/dylanaraps/neofetch)
+- [jayboxyz / websites-and-tools](https://github.com/jayboxyz/websites-and-tools)
+- [zufuliu / notepad4](https://github.com/zufuliu/notepad4)
+- [stackia / best-windows-apps](https://github.com/stackia/best-windows-apps)
 
 ### Non-Softwares
 
